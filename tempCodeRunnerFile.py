@@ -1,0 +1,5 @@
+ self.add_class("object", 1, "pf")
+        self.add_class("object", 2, "pm")
+        self.add_class("object", 3, "po")
+        self.add_class("object", 4, "pv")
+        self.add_class("object", 5, "wbc")
